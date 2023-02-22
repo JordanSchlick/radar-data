@@ -1,7 +1,7 @@
 //@ts-check
 var config = require("./config")
 var axios = require("axios").default
-axios.defaults.adapter = require('axios/lib/adapters/http')
+//axios.defaults.adapter = require('axios/lib/adapters/http')
 var fsPromises = require("fs").promises
 var fs = require("fs")
 var path = require("path")
