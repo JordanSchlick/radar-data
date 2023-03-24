@@ -2,7 +2,7 @@
 This is a small utility to grab the latest NEXRAD radar data.
 
 ## Running
-If you are on windows you can download the release and skip to step 5  
+If you are on windows you can download the [release](https://github.com/JordanSchlick/radar-data/releases/latest) and skip to step 5  
 1. Download this repository
 2. Install node.js from https://nodejs.org/en/
 3. Run `npm install` inside the unpacked radar-data repository
